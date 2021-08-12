@@ -1,0 +1,141 @@
+
+body{
+
+    margin: 0px;
+    width: 100%;
+  color: black;
+  font-family: 'Akaya Kanadaka', cursive;
+  font-size: 20px;
+}
+.fonte2{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 900;
+    font-size: 17px;
+}
+h2, h3, h4{
+    font-weight: bold;
+    color: #008000;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#topo img{
+    width: 100%;
+}
+
+h6{
+    color:black;
+}
+footer p{
+    color: black;
+   ;
+}
+a{
+    text-decoration: none;}
+  
+  .cor{
+      background-color: #89CFF0;
+  }
+  .car{
+      width: 700px;
+      height: 400px;
+      margin: auto;
+  }
+  .meio{
+      height: 500px;
+  }
+
+ 
+  h1{
+      text-align: center;
+      font-size: 70px;
+      margin-top: 30px;
+      color: #008000;
+  }
+  
+ .teste{
+     
+     margin: 10px;
+ }
+ .row{
+     height: 200px;
+ }
+ .teste p{
+     width: 70%;
+ }
+ .carousel-inner p, .carousel-inner h5 {
+     text-align: center;
+ }
+.textos{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    font-size: 19px;
+}
+
+.navbar img{
+    border-radius: 100px;
+}
+#ber{
+    margin-top: 50px;
+}
+.textos p{
+   
+    margin:auto;
+    text-align: center;
+
+}
+.textos h3{
+    text-align: center;
+}
+.roda p, .roda h6{
+    text-align: center;
+}
+.turma{
+    height: 700px;
+    margin-top: 200px;
+    text-align: center;
+}
+ .centralizar h2, .centralizar figure {
+
+  text-align: center;
+ }
+ .centralizar figure {
+    text-align: center;
+     margin-bottom: 50px;
+    }
+
+    .redutor{
+        margin: auto;
+        width: 70%;
+        padding-bottom: 50px;
+    }
+    .mensalidade{
+        height: 700px;
+        text-align: center;
+
+    }
+.formulario{
+    height: 500px;
+}
+.formulario h4{
+    margin-bottom: 30px;
+}
+.formulario button{
+    margin-top: 30px;
+    background-color: #008000;
+    color: white;
+}
+.ultima{
+    margin-bottom: 60px;
+}
+.aulas{
+    margin-bottom: 100px;
+}
+ .aulas{
+   height: 2000px;
+}
+.au{
+    height: 300px;
+}
+.turma img{
+    margin-top: 100px;
+}
